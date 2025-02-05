@@ -17,6 +17,12 @@
       "title": "My Second Blog",
       "body": "This is my second blog using post request",
       "author": "ed"
+    },
+    {
+      "id": "ce49",
+      "title": "My third blog",
+      "body": "This is my third blog with redirect.\n",
+      "author": "ed"
     }
   ]
 }
